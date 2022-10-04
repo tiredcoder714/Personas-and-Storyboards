@@ -1,0 +1,93 @@
+#title{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.interface-image{
+    width: 30rem;
+}
+
+#all-content {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    /* overflow-wrap: break-word; */
+}
+
+#assignment-goal {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50rem;
+}
+#assignment-goal-text {
+    text-align: left;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column; */
+}
+
+/* #questions {
+    display: flex;
+    justify-content: center;
+
+} */
+#questions-text {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+/* #responses { */
+    /* text-align:left; */
+    /* list-style-position: inside; */
+    /* overflow: auto; */
+/* } */
+
+#responses {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+}
+
+#gen-responses {
+    text-align: left;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    hyphens: manual;
+}
+
+#observations {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+}
+
+#observations-text{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    hyphens: manual;
+}
+
+
+
+.larry-persona-image {
+    width: 30rem;
+    margin: 2rem;
+}
+
+.eileen-persona-image {
+    width: 30rem;
+    margin: 2rem;
+}
+
+.storyboard {
+    width: 70rem;
+}
